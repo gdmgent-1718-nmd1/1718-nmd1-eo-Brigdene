@@ -16,3 +16,13 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+.container{
+    display:flex;
+    flex-flow: row wrap;
+    position:relative
+}
+.content{
+align-content:center;
+width:250px;
+}
+
