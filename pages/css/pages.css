@@ -38,4 +38,9 @@ margin-right:5px;
 }
 .scenarioTitel{
     font-weight:bold;
+    font-size:20px;
+    margin-bottom:-20px;
+}
+.scenarioTekst{
+    font-size:14px;
 }
