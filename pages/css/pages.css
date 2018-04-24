@@ -35,6 +35,7 @@ margin-right:5px;
 }
 #color1{
     background-color:hsla(314, 60%, 64%,1);
+   
 }
 .scenarioTitel{
     font-weight:bold;
@@ -44,4 +45,13 @@ margin-right:5px;
 }
 .scenarioTekst{
     font-size:14px;
+}
+.colors{
+    float:left;
+    height:50px;
+}
+#colorContainer{
+    background-color:RGB(240,240,240);
+    padding-left:0px;
+    
 }
